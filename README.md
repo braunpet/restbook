@@ -1,7 +1,6 @@
 ---
 title: Einführung in REST
-author: Peter Braun
-layout: home
+permalink: /
 ---
 
 ## Einleitung
