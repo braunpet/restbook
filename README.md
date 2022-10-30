@@ -1,6 +1,7 @@
 ---
 title: Einführung in REST
 permalink: /
+layout: home
 ---
 
 ## Einleitung
