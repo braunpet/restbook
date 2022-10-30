@@ -4,6 +4,11 @@ permalink: /
 layout: home
 ---
 
+> ##### WARNING
+>
+> Diese Seiten werden gerade erst erstellt. Sie sind nicht vollständig und sicher auch nicht fehlerfrei.
+{: .block-warning }
+
 ## Einleitung
 
 Dieses Buch führt in das Design und die Programmierung eines Client/Server Systems basierend auf dem Architekturstil REST ein. Es werden alle wichtigen Aspekte betrachtet, insbesondere auch das sogenannte Hypermedia-Prinzip, manchmal auch HATEOAS genannt. 
