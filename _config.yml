@@ -2,3 +2,8 @@ title: Eine Einführung in REST
 author: Peter Braun
 description: Umfassende Einführung in die Programmierung von REST Servern
 remote_theme: sighingnow/jekyll-gitbook
+syntax_highlighter_style: colorful
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
