@@ -2,6 +2,7 @@
 title: Einführung in Client/Server Systeme
 author: Peter Braun
 weight: 0
+layout: post
 ---
 
 Herzlich willkommen zur Einheit über Client-Serversysteme. Wir wollen uns in dieser Einheit zunächst grundsätzlich mit der Architektur von Client-Server Systemen beschäftigen und die besonderen Herausforderungen betrachten, die wir bei der Programmierung von solchen Systemen beachten müssen. Anschließend werden wir die Programmierung von solchen Systemen in der Programmiersprache Java üben. Dabei betrachten wir zunächst den einfachen Fall einer synchronen Kommunikation. Sie werden an einigen Aufgaben auch selber Lösungen erarbeiten können. Am Ende betrachten wir dann auch noch kurz die asynchrone Kommunikation und bearbeiten auch wieder gemeinsam eine Aufgabe. 
