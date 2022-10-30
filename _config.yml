@@ -1,4 +1,4 @@
 title: Eine Einführung in REST
 author: Peter Braun
 description: Umfassende Einführung in die Programmierung von REST Servern
-remote-theme: samarsault/texture
+remote_theme: tomjoht/documentation-theme-jekyll
