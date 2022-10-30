@@ -1,10 +1,14 @@
-# REST
+---
+title: Einführung in REST
+author: Peter Braun
+layout: home
+---
 
-## Einführung
+## Einleitung
 
-## Resourcen
+## Motivation
 
-## CRUD
+## Zielgruppe
 
-## HATEOAS
+## Überblick über den Inhalt 
 
