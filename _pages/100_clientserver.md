@@ -10,6 +10,8 @@ Herzlich willkommen zur Einheit über Client-Serversysteme. Wir wollen uns in di
 
 Schauen wir uns zunächst an wie ein Client-Server System grundsätzlich aufgebaut ist. Starten wir dafür auf der untersten Ebene. Zunächst einmal geht es um ein verteiltes System d. h. wir haben mindestens zwei physikalische oder virtuelle Computer. In der Grafik benennen wir diese Computer erst mal ganz einfach mit dem Wort „Box“. Diese beiden Boxen sind über ein Netzwerk miteinander verbunden.
 
+![Client Server Overview](/assets/img/client_server.png)
+
 Um aus diesen beiden Boxen, die bislang lediglich aus etwas Hardware und miteinander über eine Netzwerk Schnittstelle verbunden sind, ein System zu machen, brauchen wir noch Software. Ohne die Software haben wir kein Client-Server System oder anders formuliert erst die Software macht aus zwei Computern ein funktionsfähiges Client-Server System.
 
 Mit den beiden Begriffen Client und Server beschreiben wir die Rollen, die die beiden Computer in diesem verteilten System einnehmen. Fangen wir mit dem Server an. Der Server, bzw. genauer gesagt die Software die auf der Box läuft, die jetzt die Rolle des Servers einnimmt, stellt einen Dienst zur Verfügung. Unter einem Dienst kann man sich jetzt zunächst einmal alles vorstellen. Das kann ein Drucker sein, der wiederum physikalisch an diesem Computer angeschlossen ist und von der Software angesteuert werden kann. Dies kann aber auch ein Filesystem sein und die Software auf dem Server ist in der Lage, Dateien zu speichern, zu löschen und natürlich wiederzufinden. Oder aber es ist ein Dienst im Sinne eines Algorithmus der also bestimmte Parameter entgegennimmt und aus diesen Eingaben eine bestimmte Ausgabe produziert.
