@@ -53,7 +53,7 @@ Studierende der Informatik und verwandter Studiengänge, die sich die Programmie
 
 In diesem Buch stehen sowohl das Protokoll HTTP als auch die konkrete Implementierung in Java im Vordergrund. 
 
-Es existieren bereits einige Bücher zum Thema Programmieren von REST. Entweder betrachten diese Bücher lediglich die theoretischen Konzepte die sich aus der grundlegenden Dissertation von Fielding ergeben haben. Es werden die verschiedenen [HTTP](/_pages/990_http_status_codes.md) Verben, die Themen Ressourcen und Repräsentationsformate, und weitere technische Themen wie zum Beispiel Caching diskutiert. Solchen Büchern fehlt es dann jedoch an praktischen Beispielen, an denen der Leser die theoretischen Konzepte nachvollziehen oder selbst erproben kann. 
+Es existieren bereits einige Bücher zum Thema Programmieren von REST. Entweder betrachten diese Bücher lediglich die theoretischen Konzepte die sich aus der grundlegenden Dissertation von Fielding ergeben haben. Es werden die verschiedenen [HTTP](/_pages/990_http_status_codes.html) Verben, die Themen Ressourcen und Repräsentationsformate, und weitere technische Themen wie zum Beispiel Caching diskutiert. Solchen Büchern fehlt es dann jedoch an praktischen Beispielen, an denen der Leser die theoretischen Konzepte nachvollziehen oder selbst erproben kann. 
 
 Auf der andern Seite existieren sehr praktisch orientierte Bücher zur Programmierung von APIs. Der Fokus bei diesen Büchern liegt auf  Frameworks in den verschiedenen Programmiersprachen.  Die theoretischen Konzepte einer Rest API werden dabei leider auch nur insoweit beschrieben, wie sie in den konkreten Framework unterstützt werden bzw. für die Entwicklung einer API mithilfe dieser Framework benötigt werden.
  
