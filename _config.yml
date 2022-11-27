@@ -3,7 +3,7 @@ author: Peter Braun
 email:  mail@peter-braun.org
 description: Umfassende Einführung in die Programmierung von REST Servern
 
-url:              'https://braupet.github.io'
+url:              'https://braunpet.github.io'
 baseurl:          '/restbook'
 rss:              RSS
 

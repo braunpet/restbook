@@ -4,7 +4,7 @@ author: Peter Braun
 date: 2022-10-30
 category: REST
 layout: post
-weight: 1
+weight: 10
 ---
 
 REST ist eine dokumenten-orientierte und keine funktions-orientierte Architektur.
