@@ -3,7 +3,6 @@ title: Resourcen
 author: Peter Braun
 category: REST
 layout: post
-weight: 10
 ---
 
 REST ist eine dokumenten-orientierte und keine funktions-orientierte Architektur.

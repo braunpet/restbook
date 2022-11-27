@@ -1,7 +1,6 @@
 ---
 title: Einführung in Client/Server Systeme
 author: Peter Braun
-weight: 0
 layout: post
 ---
 
